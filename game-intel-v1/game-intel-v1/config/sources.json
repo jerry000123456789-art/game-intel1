@@ -1,0 +1,11 @@
+{
+  "news_queries": [
+    {"region":"台灣","language":"zh-TW","country":"TW","query":"新遊戲 上市 OR 事前預約 OR 遊戲攻略 OR 兌換碼"},
+    {"region":"日本","language":"ja","country":"JP","query":"新作ゲーム 発売日 OR 事前登録 OR 攻略 OR シリアルコード"},
+    {"region":"韓國","language":"ko","country":"KR","query":"신작 게임 출시일 OR 사전예약 OR 쿠폰 코드"},
+    {"region":"美國","language":"en-US","country":"US","query":"new game release date OR game guide OR redeem codes"},
+    {"region":"英國","language":"en-GB","country":"GB","query":"upcoming video game launch OR game codes"}
+  ],
+  "rss_feeds": [],
+  "youtube_channels": []
+}
