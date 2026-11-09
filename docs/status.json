@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-11-09T01:21:52+00:00",
+  "last_run_at": "2026-11-09T02:58:55+00:00",
   "feeds_checked": 6,
-  "items_seen": 171,
-  "new_items": 1,
+  "items_seen": 166,
+  "new_items": 3,
   "failures": [
     "YouTube: UCOCtiyIH-Dt00Ntv-WqPgfw (全球): 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOCtiyIH-Dt00Ntv-WqPgfw"
   ]
