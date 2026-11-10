@@ -1,7 +1,13 @@
 {
-  "last_run_at": "2026-11-10T10:04:34+00:00",
+  "last_run_at": "2026-11-10T11:00:16+00:00",
   "feeds_checked": 6,
-  "items_seen": 187,
-  "new_items": 2,
-  "failures": []
+  "items_seen": 15,
+  "new_items": 0,
+  "failures": [
+    "Google News (台灣): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E6%96%B0%E9%81%8A%E6%88%B2+%E4%B8%8A%E5%B8%82+OR+%E4%BA%8B%E5%89%8D%E9%A0%90%E7%B4%84+OR+%E9%81",
+    "Google News (日本): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E6%96%B0%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0+%E7%99%BA%E5%A3%B2%E6%97%A5+OR+%E4%BA%8B%E5%89%8D%",
+    "Google News (韓國): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%8B%A0%EC%9E%91+%EA%B2%8C%EC%9E%84+%EC%B6%9C%EC%8B%9C%EC%9D%BC+OR+%EC%82%AC%EC%A0%84%EC%98%88",
+    "Google News (美國): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=new+game+release+date+OR+game+guide+OR+redeem+codes&hl=en-US&gl=US&ceid=US:en",
+    "Google News (英國): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=upcoming+video+game+launch+OR+game+codes&hl=en-GB&gl=GB&ceid=GB:en"
+  ]
 }
