@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-11-11T01:17:39+00:00",
+  "last_run_at": "2026-11-11T02:59:42+00:00",
   "feeds_checked": 6,
-  "items_seen": 176,
-  "new_items": 5,
+  "items_seen": 170,
+  "new_items": 8,
   "failures": [
     "YouTube: UCOCtiyIH-Dt00Ntv-WqPgfw (全球): 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOCtiyIH-Dt00Ntv-WqPgfw"
   ]
