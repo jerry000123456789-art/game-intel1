@@ -1,7 +1,10 @@
 {
-  "last_run_at": "2026-11-16T21:58:53+00:00",
+  "last_run_at": "2026-11-16T22:57:31+00:00",
   "feeds_checked": 6,
-  "items_seen": 192,
-  "new_items": 2,
-  "failures": []
+  "items_seen": 112,
+  "new_items": 0,
+  "failures": [
+    "Google News (日本): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E6%96%B0%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0+%E7%99%BA%E5%A3%B2%E6%97%A5+OR+%E4%BA%8B%E5%89%8D%E7",
+    "Google News (英國): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=upcoming+video+game+launch+OR+game+codes&hl=en-GB&gl=GB&ceid=GB:en"
+  ]
 }
