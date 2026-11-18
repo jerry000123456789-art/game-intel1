@@ -1,7 +1,9 @@
 {
-  "last_run_at": "2026-11-18T22:00:25+00:00",
+  "last_run_at": "2026-11-18T23:02:01+00:00",
   "feeds_checked": 6,
-  "items_seen": 197,
-  "new_items": 3,
-  "failures": []
+  "items_seen": 157,
+  "new_items": 1,
+  "failures": [
+    "Google News (日本): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E6%96%B0%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0+%E7%99%BA%E5%A3%B2%E6%97%A5+OR+%E4%BA%8B%E5%89%8D%E7"
+  ]
 }
