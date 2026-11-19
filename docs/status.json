@@ -1,7 +1,9 @@
 {
-  "last_run_at": "2026-11-19T19:12:43+00:00",
+  "last_run_at": "2026-11-19T20:16:21+00:00",
   "feeds_checked": 6,
-  "items_seen": 202,
-  "new_items": 0,
-  "failures": []
+  "items_seen": 160,
+  "new_items": 15,
+  "failures": [
+    "Google News (美國): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=new+game+release+date+OR+game+guide+OR+redeem+codes&hl=en-US&gl=US&ceid=US:en"
+  ]
 }
