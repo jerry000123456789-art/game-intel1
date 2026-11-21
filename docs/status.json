@@ -1,7 +1,9 @@
 {
-  "last_run_at": "2026-11-21T04:02:39+00:00",
+  "last_run_at": "2026-11-21T05:06:17+00:00",
   "feeds_checked": 6,
-  "items_seen": 215,
+  "items_seen": 166,
   "new_items": 1,
-  "failures": []
+  "failures": [
+    "Google News (英國): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=upcoming+video+game+launch+OR+game+codes&hl=en-GB&gl=GB&ceid=GB:en"
+  ]
 }
