@@ -1,7 +1,9 @@
 {
-  "last_run_at": "2026-11-27T18:00:50+00:00",
+  "last_run_at": "2026-11-27T19:12:08+00:00",
   "feeds_checked": 6,
-  "items_seen": 209,
-  "new_items": 1,
-  "failures": []
+  "items_seen": 175,
+  "new_items": 2,
+  "failures": [
+    "Google News (台灣): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E6%96%B0%E9%81%8A%E6%88%B2+%E4%B8%8A%E5%B8%82+OR+%E4%BA%8B%E5%89%8D%E9%A0%90%E7%B4%84+OR+%E9%81%8"
+  ]
 }
