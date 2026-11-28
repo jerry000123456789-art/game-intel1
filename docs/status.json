@@ -1,9 +1,7 @@
 {
-  "last_run_at": "2026-11-28T07:33:18+00:00",
+  "last_run_at": "2026-11-28T09:03:23+00:00",
   "feeds_checked": 6,
-  "items_seen": 200,
-  "new_items": 3,
-  "failures": [
-    "YouTube: UCOCtiyIH-Dt00Ntv-WqPgfw (全球): 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOCtiyIH-Dt00Ntv-WqPgfw"
-  ]
+  "items_seen": 215,
+  "new_items": 1,
+  "failures": []
 }
